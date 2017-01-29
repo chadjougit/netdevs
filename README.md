@@ -25,6 +25,15 @@ https://houssein.me/angular2-hacker-news
 клон hacker-news на ng2
 
 
+https://github.com/born2net/Angular-kitchen-sink
+бестпрактис
+
+https://github.com/robisim74/Angular2SPAWebAPI
+ngrx, asp.net core, angular 2
+отличный проект!
+
+
+
 
 NGRX:
 
